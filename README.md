@@ -9,7 +9,7 @@ O projeto demonstra a capacidade de criar uma interface com uma forte personalid
 * **Elementos de e-commerce**, como o ícone de carrinho de compras, para uma experiência de compra visualmente orientada.
 
 ## 🚀 Acesse o Site
-
+https://aleksandraberto.github.io/WebsiteRoupa-repositorio/
 
 ## 📂 Estrutura do projeto
 /GlowUpFashionWebsite
